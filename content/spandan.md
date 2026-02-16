@@ -1,7 +1,6 @@
 ---
 title: spandan
 date: 2026-02-16
-draft: true
 ---
 
-is this nice?
+is this nice? huh?? ok!
