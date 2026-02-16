@@ -6,7 +6,7 @@ draft: true
 
 This is the main page.
 
-![yay.jpeg](/static/images/yay.jpeg)
+![yay.png](/static/images/yay.png)
 
 Hihi
 hihi
