@@ -6,7 +6,5 @@ draft: true
 
 This is the main page.
 
-![school.jpeg](/static/images/school.jpeg)
-
 Hihi
 hihi
