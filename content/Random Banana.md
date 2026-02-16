@@ -10,4 +10,6 @@ draft: true
 
 This is what happens when you don't care.
 
-Does it?
+Does it? or not?
+
+![hello.jpg](/static/images/hello.jpg)
