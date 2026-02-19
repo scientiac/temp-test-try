@@ -1,12 +1,9 @@
----
-title: new-post
-date: 2026-02-16
-draft: true
----
++++  
+title: new-post  
+date: 2026-02-19  
+time: 06:36:19  
++++
 
-Just fun
-![new.png](/static/images/new.png)
-Welcome **bro**! Let's goooooo!
+![things.png](/static/pictures/things.png)
 
-
-hi
+waaauuu
