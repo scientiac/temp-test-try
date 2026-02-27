@@ -5,3 +5,5 @@ time: 22:34:21
 +++
 
 ![crip.jpg](/static/images/crip.jpg)
+
+![flux.png](/static/assets/flux.png)
