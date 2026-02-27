@@ -1,7 +1,7 @@
 {
   "contentDir": "content",
-  "useStaticFolder": false,
-  "staticDir": "",
+  "useStaticFolder": true,
+  "staticDir": "test",
   "assetsDir": "static/assets",
   "postTemplate": "+++\ntitle: {{title}}\ndate: {{date}}\ntime: {{time}}\n+++\n\n",
   "siteUrl": "https://github.com/scientiac/flux",
