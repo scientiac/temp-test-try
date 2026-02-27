@@ -47,3 +47,9 @@ echo "Hello, World!"
 <a class="u-in-reply-to" href="https://github.com/scientiac">yeyyy</a>
 
 <a class="u-like-of" href="https://github.com/scientiac">ooooo</a>
+
+[Expo Download Link](https://expo.dev/accounts/stayawayfromme/projects/flux/builds/638e43b6-a105-4d8c-b091-6673bca04189)
+
+<a class="u-in-reply-to" href="https://expo.dev/accounts/stayawayfromme/projects/flux/builds/638e43b6-a105-4d8c-b091-6673bca04189">This is expo</a>
+
+hi
