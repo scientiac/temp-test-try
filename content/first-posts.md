@@ -48,8 +48,6 @@ echo "Hello, World!"
 
 <a class="u-like-of" href="https://github.com/scientiac">ooooo</a>
 
-[Expo Download Link](https://expo.dev/accounts/stayawayfromme/projects/flux/builds/638e43b6-a105-4d8c-b091-6673bca04189)
+[_eee ppy kuchu kuchuuuu hahah shsjjss_]
 
-<a class="u-in-reply-to" href="https://expo.dev/accounts/stayawayfromme/projects/flux/builds/638e43b6-a105-4d8c-b091-6673bca04189">This is expo</a>
-
-hi
+[the-algorithm-design.pdf](/static/images/the-algorithm-design.pdf)
