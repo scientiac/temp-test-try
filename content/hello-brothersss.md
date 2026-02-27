@@ -5,3 +5,5 @@ time: 23:00:01
 +++
 
 Hi brother
+
+![flux.png](/static/assets/flux.png)
