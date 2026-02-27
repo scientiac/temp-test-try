@@ -1,6 +1,6 @@
 {
   "contentDir": "content",
-  "useStaticFolder": false,
+  "useStaticFolder": true,
   "staticDir": "static",
   "assetsDir": "static/assets",
   "postTemplate": "+++\ntitle: {{title}}\ndate: {{date}}\ntime: {{time}}\n+++\n\n",
