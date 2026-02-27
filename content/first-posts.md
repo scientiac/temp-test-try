@@ -49,5 +49,3 @@ echo "Hello, World!"
 <a class="u-like-of" href="https://github.com/scientiac">ooooo</a>
 
 [_eee ppy kuchu kuchuuuu hahah shsjjss_]
-
-[the-algorithm-design.pdf](/static/images/the-algorithm-design.pdf)
