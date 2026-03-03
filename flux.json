@@ -3,7 +3,7 @@
   "useStaticFolder": true,
   "staticDir": "test",
   "assetsDir": "static/assets",
-  "postTemplate": "+++\ntitles: {{title}}\ndate: {{date}}\ntime: {{time}}\n+++\n\n",
+  "postTemplate": "+++\ntitles: {{title}}\ndates: {{date}}\ntime: {{time}}\n+++\n\n",
   "siteUrl": "https://github.com/scientiac/flux",
   "showAdvancedFiles": true,
   "syncSettingsToGitHub": true
