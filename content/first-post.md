@@ -12,7 +12,7 @@ I am sure this will render correctly.
 In the same line.
 
 ## Image
-![tectonic.jpeg](/static/images/tectonic.jpeg)
+![preview.png](/static/assets/preview.png)
 
 ### Quote
 > Yes! Tectonic is a legend!  
