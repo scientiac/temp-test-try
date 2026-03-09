@@ -6,5 +6,6 @@
   "postTemplate": "+++\ntitles: {{title}}\ndates: {{date}}\ntime: {{time}}\n+++\n\n",
   "siteUrl": "https://github.com/scientiac/flux",
   "showAdvancedFiles": true,
-  "syncSettingsToGitHub": true
+  "syncSettingsToGitHub": true,
+  "sortBy": "alphabetical"
 }
